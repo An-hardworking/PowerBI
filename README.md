@@ -5,8 +5,11 @@ This project analyzes the public dataset from **Olist**, a major Brazilian e-com
 
 📦 Data source: [Brazilian E-Commerce Public Dataset by Olist – Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
-🔗 **[View the interactive Power BI report]
-https://app.powerbi.com/groups/me/reports/4f31ba5a-87ed-4853-8161-6ca2b7595ce1/e9b4c45a3916a5983ac1?experience=power-bi**
+
+🔗 **[View the interactive Power BI report](https://app.powerbi.com/groups/me/reports/4f31ba5a-87ed-4853-8161-6ca2b7595ce1/e9b4c45a3916a5983ac1?experience=power-bi**
+)**
+
+
 ---
 
 
